@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "gsap": "^3.13.0"
+  },
+  "devDependencies": {
+    "astro": "^5.13.10"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
   }
 }
